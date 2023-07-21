@@ -5,7 +5,7 @@
     "license": "Apache-2.0",
     "repository": {
         "type": "git",
-        "url": "http://github.com/grs/skupper-udp-bridge"
+        "url": "http://github.com/adetalhouet/skupper-udp-bridge"
     },
     "dependencies": {
         "debug": "*",
