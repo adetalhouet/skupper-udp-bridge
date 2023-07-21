@@ -1,6 +1,6 @@
 {
     "name": "skupper-udp-bridge",
-    "version": "0.0.1",
+    "version": "0.0.1-debug",
     "description": "udp bridge prototype",
     "license": "Apache-2.0",
     "repository": {
